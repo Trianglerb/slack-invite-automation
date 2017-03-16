@@ -137,3 +137,16 @@ cursor: pointer;
 background: #eeeeee;
 }
 
+.info {
+  margin-top: 10px;
+  text-align: center;
+  color: white;
+}
+
+.info a {
+  color: white;
+}
+
+.info li {
+  margin: 10px 0;
+}
